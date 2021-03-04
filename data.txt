@@ -1,3 +1,4 @@
-Name: Bald the Bear
+Name: Balu the Bear
 Age: 35
-Favorite Color: Blue
+Favourite Color: Blue
+Favourite Sport: Tennis
