@@ -1,0 +1,3 @@
+Name: Bald the Bear
+Age: 35
+Favorite Color: Blue
